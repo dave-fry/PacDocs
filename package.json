@@ -1,0 +1,18 @@
+{
+  "name": "pacdocs",
+  "version": "0.0.1",
+  "description": "PACMan documentation",
+  "main": "index.js",
+  "authors": {
+    "name": "David Fry",
+    "email": "david.fry@ivcevidensia.com"
+  },
+  "repository": "https://github.com/ivcgroup/PACDocs/pacdocs",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.53"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
