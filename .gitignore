@@ -22,7 +22,7 @@ packages/@vuepress/shared-utils/types/
 
 # Dist files
 lib/
-docs/.vuepress/dist
+#docs/.vuepress/dist
 
 # Typescript build info
 *.tsbuildinfo
